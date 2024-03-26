@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**massimopasquali/massimopasquali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Massimo Pasquali,
 
-Here are some ideas to get you started:
+balanced, flexible and reliable person with the ability to analyze and evaluate complex and complicated situations. I always strive to get the assigned solution. I have an excellent background as a developer: C #, Xamrin Fors implemented using Visual Studio as a tool. I am looking for a position as a developer that allows me to use my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn 💼](https://www.linkedin.com/in/massimo-pasquali-informatica/)
+
+[Twitter 🐦](h)
+
+[Website 🌍](https://www.pasqualinformatica.com)
+
+[Email 📬](mailto:massimo@pasqualinformatica.com)
